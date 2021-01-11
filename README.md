@@ -1,32 +1,50 @@
-# Hi there, I'm Bishal - aka CodeBudy 👋
 
-## I'm a Computer Science Graduate , Freelance Web Developer and Machine Learning Enthusisat
+# Hello, Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
--
-- 🌱 I’m a Web Developer and Machine Learning Enthisiast 😁
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: - Contribute to Open Source - Learn **React.js Node.js Express MongoDB**
-- ⚡ Fun fact: I Love to teach and mentor other Coders
+## My name is Bishal Das Aka Codebudy and I'm a Web Developer and Machine Learning Ethusiast 🖥️. 
+  - 🏠 I'm from India currently working on my own
+  - 🌱 I’m a Web Developer and Machine Learning Enthisiast 😁
+  - 👯 I’m looking to collaborate with other content creators
+  - 🥅 2021 Goals: - Contribute to Open Source - Learn **React.js Node.js Express MongoDB**
+  - ⚡ Fun fact: I Love to teach and mentor other Coders
 
-### Connect with me
+## &#x270d; Blog & Social
 
-[![Blog](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/blog.svg)](https://codebudy.blogspot.com/)
-[![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/bishal-das404/)
+- Apart from coding, I also maintain a blog - you can find my articles on my website at [CodeBudy](https://codebudy.blogspot.com/).
+- You can find me on   [![LinkedIn][3.2]][3]
 
-</br >
+## 🔧 Technologies & Tools
 
-### Languages and Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 
-![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
-![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
-![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
-![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
-![GitHub](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png)
-![Terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
-</br >
-</br >
+## &#x1f4c8; GitHub Stats
 
-## Github Stats
+<a href="https://github.com/darkshadow88/darkshadow88">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkshadow88&hide=jupyter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</br>
+<a href="https://github.com/darkshadow88/darkshadow88">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkshadow88&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bishal's GitHub Stats" />
+</a>
+<!-- links to social media icons -->
 
-![Github Stats](https://github-readme-stats.drakshadow88.vercel.app/api?username=darkshadow88&show_icons=true&hide_border=true)
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
+[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
+[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
+
+<!-- links to your social media accounts -->
+
+[3]: https://www.linkedin.com/in/bishal-das404/
+

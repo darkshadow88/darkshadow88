@@ -4,7 +4,7 @@
 ## My name is Bishal Das Aka Codebudy and I'm a Web Developer and Machine Learning Ethusiast 🖥️. 
   - 🏠 I'm from India currently working on my own
   - 🌱 I’m a Web Developer and Machine Learning Enthisiast 😁
-  - 👯 I’m looking to collaborate with other content creators
+  - 👯 I’m looking to collaborate with other Web Developers
   - 🥅 2021 Goals: - Contribute to Open Source - Learn **React.js Node.js Express MongoDB**
   - ⚡ Fun fact: I Love to teach and mentor other Coders
 
